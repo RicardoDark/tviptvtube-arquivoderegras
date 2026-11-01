@@ -57,6 +57,9 @@
     {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits"},
     {"key":"nocturnal","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records"},
     {"key":"K-pop","tipo":"series","title":"Clipes | K-pop Asian","q":"kpop girl group official MV"},
+	{"key":"Gothic","tipo":"series","title":"Clipes | Gothic","q":"clip music gothic"},
+	{"key":"Emo","tipo":"series","title":"Clipes | Emo","q":"clip music emo"},
+	
     {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro"},
     {"key":"dbd","tipo":"series","title":"GamePlay | DBD","q":"dead by daylight no commentary"},
     {"key":"terceiroolho","tipo":"series","title":"Videos | Terceiro olho","q":"Terceiro olho"},
