@@ -58,6 +58,13 @@
     {"key":"nocturnal","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records"},
     {"key":"K-pop","tipo":"series","title":"Clipes | K-pop Asian","q":"kpop girl group official MV"},
     {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro"},
-    {"key":"dbd","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary"}
+    {"key":"dbd","tipo":"series","title":"GamePlay | DBD","q":"dead by daylight no commentary"}
+	
+	    {"key":"Third eye
+","tipo":"series","title":"Videos | Terceiro olho","q":"Terceiro olho"}
+		
+		    {"key":"mantras
+","tipo":"series","title":"Videos | mantras","q":"mantras Terceiro olho"}	
+	
   ]
 }
