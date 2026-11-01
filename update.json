@@ -2,26 +2,35 @@
   "versao": 3,
 
   "servidores": [
-    { "tipo": "piped", "url": "https://pipedapi.kavin.rocks" },
-    { "tipo": "piped", "url": "https://pipedapi.leptons.xyz" },
-    { "tipo": "piped", "url": "https://pipedapi.nosebs.ru" },
-    { "tipo": "piped", "url": "https://pipedapi.adminforge.de" },
-    { "tipo": "piped", "url": "https://pipedapi.drgns.space" },
-    { "tipo": "piped", "url": "https://pipedapi.owo.si" },
-    { "tipo": "piped", "url": "https://pipedapi.reallyaweso.me" },
-    { "tipo": "inv", "url": "https://inv.nadeko.net" },
-    { "tipo": "inv", "url": "https://yewtu.be" }
+    {"tipo": "piped", "url": "https://pipedapi.kavin.rocks"},
+    {"tipo": "piped", "url": "https://pipedapi.leptons.xyz"},
+    {"tipo": "piped", "url": "https://pipedapi.nosebs.ru"},
+    {"tipo": "piped", "url": "https://pipedapi.adminforge.de"},
+    {"tipo": "piped", "url": "https://pipedapi.drgns.space"},
+    {"tipo": "piped", "url": "https://pipedapi.owo.si"},
+    {"tipo": "piped", "url": "https://pipedapi.reallyaweso.me"},
+    {"tipo": "inv", "url": "https://inv.nadeko.net"},
+    {"tipo": "inv", "url": "https://yewtu.be"}
   ],
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
 
-  "_____1_TV_____": "TV AO VIVO. Uma unica pasta: Canais 24 Horas. O app busca no YouTube os canais ao vivo (campo q). Nao precisa por canal na mao.",
+  "_____1_TV_____": "TV AO VIVO. Uma unica pasta: Canais 24 Horas. O app busca no YouTube os canais ao vivo (lista 'buscas'), nao precisa por canal na mao. Para acrescentar um canal fixo: coloque { \"nome\": \"...\", \"id\": \"11 letras do video ao vivo\" } em 'canais'.",
   "tv": [
     {
       "key": "canais24h",
       "title": "Canais 24 Horas",
-      "q": "canal 24 horas ao vivo",
-      "ao_vivo": true,
+      "buscas": [
+        "canal 24 horas ao vivo",
+        "tv ao vivo 24 horas",
+        "notícias ao vivo 24 horas",
+        "música ao vivo 24 horas",
+        "desenhos ao vivo 24 horas",
+        "esportes ao vivo 24 horas",
+        "filmes e séries ao vivo 24 horas",
+        "lofi 24/7 ao vivo",
+        "live 24/7 channel"
+      ],
       "canais": []
     }
   ],
@@ -48,7 +57,6 @@
     {"key": "infantil", "tipo": "movies", "title": "Filmes | Infantil e Família", "q": "filme infantil família completo dublado", "min": 2400},
     {"key": "classicos", "tipo": "movies", "title": "Filmes | Clássicos", "q": "filme clássico antigo completo dublado", "min": 3000},
     {"key": "nacionais", "tipo": "movies", "title": "Filmes | Nacionais", "q": "filme nacional brasileiro completo", "min": 3000},
-
     {"_": "=================== 3 - SERIES (24 horas em primeiro, depois series, clipes e videos) ==================="},
     {"key": "24horas", "tipo": "series", "title": "Séries | 24 Horas", "q": "24 horas ao vivo maratona dublado ptbr", "ao_vivo": true},
     {"key": "animes", "tipo": "series", "title": "Séries | Animes", "q": "anime completo dublado português", "min": 1200},
