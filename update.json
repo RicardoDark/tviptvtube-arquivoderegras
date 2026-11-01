@@ -45,6 +45,7 @@
     {"key":"historia","tipo":"series","title":"Séries | Documentários de História","q":"documentário história completo dublado","min":1800},
     {"key":"ciencia","tipo":"series","title":"Séries | Ciência e Espaço","q":"documentário espaço universo ciência dublado","min":1800},
     {"key":"crimes","tipo":"series","title":"Séries | Crimes Reais","q":"documentário crimes reais completo","min":1800},
+    {"key":"clipeshiphop","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records","min":120,"max":720},
     {"key":"standup","tipo":"series","title":"Séries | Stand-up Comedy","q":"stand up comedy especial completo","min":1500},
     {"key":"clipestop","tipo":"series","title":"Clipes | Top Hits Internacionais","q":"top english hits official music video","min":120,"max":720},
     {"key":"clipespop","tipo":"series","title":"Clipes | Pop Internacional","q":"pop official music video english","min":120,"max":720},
@@ -52,7 +53,6 @@
     {"key":"clipeshiphop","tipo":"series","title":"Clipes | Hip Hop e Rap","q":"hip hop rap official music video english","min":120,"max":720},
     {"key":"clipesdance","tipo":"series","title":"Clipes | Eletrônica e Dance","q":"dance electronic official music video","min":120,"max":720},
     {"key":"clipescountry","tipo":"series","title":"Clipes | Country","q":"country official music video english","min":120,"max":720},
-    {"key":"Nocturnal Records","tipo":"series","title":"Clipes | Country","q":"Nocturnal Records","min":120,"max":720},
     {"key":"clipes80","tipo":"series","title":"Clipes | Anos 80","q":"80s official music video hits","min":120,"max":720},
     {"key":"clipes90","tipo":"series","title":"Clipes | Anos 90","q":"90s official music video hits","min":120,"max":720},
     {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720}
