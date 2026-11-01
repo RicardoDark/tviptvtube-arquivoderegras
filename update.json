@@ -15,23 +15,20 @@
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
 
-  "_____1_TV_____": "TV AO VIVO. Pasta fixa no topo da aba TV. Para por canal ao vivo: copie o ID do video ao vivo (11 letras depois de v= no link do YouTube) e ponha em id.",
+  "_____1_TV_____": "TV AO VIVO. Uma unica pasta: Canais 24 Horas. O app busca no YouTube os canais ao vivo (campo q). Nao precisa por canal na mao.",
   "tv": [
     {
-      "key": "tvyoutube",
-      "title": "TV e YouTube",
-      "canais": [
-        { "nome": "Lofi Girl | Rádio Lofi 24h", "id": "jfKfPfyJRdk" },
-        { "nome": "NASA TV | Ao vivo", "id": "21X5lGlDOfg" },
-        { "nome": "Al Jazeera English | Notícias", "id": "gCNeDWCI0vo" },
-        { "nome": "Sky News | Notícias", "id": "YDvsBbKfLPA" },
-        { "nome": "Kitten Academy | Gatinhos 24h", "id": "R7vrbiDi0Tc" }
-      ]
+      "key": "canais24h",
+      "title": "Canais 24 Horas",
+      "q": "canal 24 horas ao vivo",
+      "ao_vivo": true,
+      "canais": []
     }
   ],
 
   "secoes": [
-    {"_": "=================== 2 - LOCADORA (FILMES) ==================="},
+    {"_": "=================== 2 - LOCADORA (FILMES) - 24 horas fica em primeiro ==================="},
+    {"key": "24Filmes", "tipo": "movies", "title": "Filmes | 24 Horas", "q": "filmes 24 horas ao vivo", "ao_vivo": true},
     {"key": "filmes", "tipo": "movies", "title": "Filmes | Dublados", "q": "filme completo dublado português", "min": 3000},
     {"key": "acao", "tipo": "movies", "title": "Filmes | Ação", "q": "filme de ação completo dublado", "min": 3000},
     {"key": "comedia", "tipo": "movies", "title": "Filmes | Comédia", "q": "filme de comédia completo dublado", "min": 3000},
@@ -51,9 +48,9 @@
     {"key": "infantil", "tipo": "movies", "title": "Filmes | Infantil e Família", "q": "filme infantil família completo dublado", "min": 2400},
     {"key": "classicos", "tipo": "movies", "title": "Filmes | Clássicos", "q": "filme clássico antigo completo dublado", "min": 3000},
     {"key": "nacionais", "tipo": "movies", "title": "Filmes | Nacionais", "q": "filme nacional brasileiro completo", "min": 3000},
-    {"key": "24Filmes", "tipo": "movies", "title": "Filmes | 24 Horas", "q": "filmes 24 horas ao vivo", "ao_vivo": true},
 
-    {"_": "=================== 3 - SERIES (clipes, videos e 24 horas no final) ==================="},
+    {"_": "=================== 3 - SERIES (24 horas em primeiro, depois series, clipes e videos) ==================="},
+    {"key": "24horas", "tipo": "series", "title": "Séries | 24 Horas", "q": "24 horas ao vivo maratona dublado ptbr", "ao_vivo": true},
     {"key": "animes", "tipo": "series", "title": "Séries | Animes", "q": "anime completo dublado português", "min": 1200},
     {"key": "animesclassicos", "tipo": "series", "title": "Séries | Animes Clássicos", "q": "anime clássico anos 90 episódios dublado", "min": 900},
     {"key": "desenhos", "tipo": "series", "title": "Séries | Desenhos Clássicos", "q": "desenho animado clássico episódios completos dublado", "min": 900},
@@ -83,7 +80,6 @@
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
     {"key": "mantras", "tipo": "series", "title": "Videos | mantras", "q": "mantras Terceiro olho"},
     {"key": "ued", "tipo": "series", "title": "Videos | Universo Em Desencanto", "q": "Audio Leitura Universo Em Desencanto"},
-    {"key": "mjc", "tipo": "series", "title": "Videos | M.J.C", "q": "Manuel Jacinto Coelho"},
-    {"key": "24horas", "tipo": "series", "title": "Séries | 24 Horas", "q": "24 horas ao vivo maratona dublado ptbr", "ao_vivo": true}
+    {"key": "mjc", "tipo": "series", "title": "Videos | M.J.C", "q": "Manuel Jacinto Coelho"}
   ]
 }
