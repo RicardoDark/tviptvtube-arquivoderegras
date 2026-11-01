@@ -52,8 +52,10 @@
     {"key":"clipeshiphop","tipo":"series","title":"Clipes | Hip Hop e Rap","q":"hip hop rap official music video english","min":120,"max":720},
     {"key":"clipesdance","tipo":"series","title":"Clipes | Eletrônica e Dance","q":"dance electronic official music video","min":120,"max":720},
     {"key":"clipescountry","tipo":"series","title":"Clipes | Country","q":"country official music video english","min":120,"max":720},
+    {"key":"clipescountry","tipo":"series","title":"Clipes | Country","q":"Nocturnal Records","min":120,"max":720},
     {"key":"clipes80","tipo":"series","title":"Clipes | Anos 80","q":"80s official music video hits","min":120,"max":720},
     {"key":"clipes90","tipo":"series","title":"Clipes | Anos 90","q":"90s official music video hits","min":120,"max":720},
     {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720}
   ]
 }
+
