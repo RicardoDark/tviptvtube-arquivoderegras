@@ -60,7 +60,7 @@
    
       {"key":"K-pop","tipo":"series","title":"Clipes | K-pop Asian","q":"K-pop girl Clipes","min":320,"max":720},
 	  
-   {"key":"kof","tipo":"series","title":"Clipes | M. Bizarro","q":"M. Bizarro","min":320},
+   {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro","min":320},
    
    {"key":"dbd","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary","min":600}
   ]
