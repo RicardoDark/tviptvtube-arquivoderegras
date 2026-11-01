@@ -82,6 +82,7 @@
     {"key": "clipes90", "tipo": "series", "title": "Clipes | Anos 90", "q": "90s official music video hits"},
     {"key": "clipes2000", "tipo": "series", "title": "Clipes | Anos 2000", "q": "2000s official music video hits"},
 	{"key": "cdzremake", "tipo": "series", "title": "Clipes | cdz ia", "q": "cdz remake ia ptbr"},
+    {"key": "jogos", "tipo": "series", "title": "Clipes | jogos", "q": "jogos gamepaly play pt br"},
     {"key": "nocturnal", "tipo": "series", "title": "Clipes | Nocturnal Records", "q": "Nocturnal Records"},
     {"key": "K-pop", "tipo": "series", "title": "Clipes | K-pop Asian", "q": "kpop girl group official MV"},
     {"key": "emo", "tipo": "series", "title": "Clipes | Emo", "q": "clip music emo"},
