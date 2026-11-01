@@ -37,7 +37,7 @@
 
   "secoes": [
     {"_": "=================== 2 - LOCADORA (FILMES) - 24 horas fica em primeiro ==================="},
-    {"key": "24Filmes", "tipo": "movies", "title": "Filmes | 24 Horas", "q": "filmes 24 horas ao vivo", "ao_vivo": true},
+    {"key": "24Filmes", "tipo": "movies", "title": "Filmes | 24 Horas", "q": "filmes 24 horas ao vivo dublado", "ao_vivo": true},
     {"key": "filmes", "tipo": "movies", "title": "Filmes | Dublados", "q": "filme completo dublado português", "min": 3000},
     {"key": "acao", "tipo": "movies", "title": "Filmes | Ação", "q": "filme de ação completo dublado", "min": 3000},
     {"key": "comedia", "tipo": "movies", "title": "Filmes | Comédia", "q": "filme de comédia completo dublado", "min": 3000},
