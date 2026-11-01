@@ -45,16 +45,10 @@
     {"key":"historia","tipo":"series","title":"Séries | Documentários de História","q":"documentário história completo dublado","min":1800},
     {"key":"ciencia","tipo":"series","title":"Séries | Ciência e Espaço","q":"documentário espaço universo ciência dublado","min":1800},
     {"key":"crimes","tipo":"series","title":"Séries | Crimes Reais","q":"documentário crimes reais completo","min":1800},
-    {"key":"clipeshiphop","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records","min":120,"max":720},
-	
-	{"key":"kpop","tipo":"series","title":"Clipes | kpop","q":"asian girl Clipes kpop","min":120,"max":720},
-	
-	
+    {"key":"clipesnocturnal","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records","min":120,"max":720},
+    {"key":"kpop","tipo":"series","title":"Clipes | kpop","q":"asian girl Clipes kpop","min":120,"max":720},
     {"key":"standup","tipo":"series","title":"Séries | Comedia","q":"Comedia dublado completo","min":1500},
-	
-    {"key":"clipestop","tipo":"series","title":"Clipes | Top Hits Internacionais","q":"top english hits official music 
-	video","min":120,"max":720},
-	
+    {"key":"clipestop","tipo":"series","title":"Clipes | Top Hits Internacionais","q":"top english hits official music video","min":120,"max":720},
     {"key":"clipespop","tipo":"series","title":"Clipes | Pop Internacional","q":"pop official music video english","min":120,"max":720},
     {"key":"clipesrock","tipo":"series","title":"Clipes | Rock Internacional","q":"rock official music video english","min":120,"max":720},
     {"key":"clipeshiphop","tipo":"series","title":"Clipes | Hip Hop e Rap","q":"hip hop rap official music video english","min":120,"max":720},
@@ -62,8 +56,8 @@
     {"key":"clipescountry","tipo":"series","title":"Clipes | Country","q":"country official music video english","min":120,"max":720},
     {"key":"clipes80","tipo":"series","title":"Clipes | Anos 80","q":"80s official music video hits","min":120,"max":720},
     {"key":"clipes90","tipo":"series","title":"Clipes | Anos 90","q":"90s official music video hits","min":120,"max":720},
-    {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720}
-	{"key":"KOF","tipo":"series","title":"Clipes | M. Bizarro","q":"M. Bizarro","min":120,"max":720}
+    {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720},
+    {"key":"KOF","tipo":"series","title":"Clipes | M. Bizarro","q":"M. Bizarro","min":120,"max":720},
     {"key":"DBD","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary","min":120,"max":720}
   ]
 }
