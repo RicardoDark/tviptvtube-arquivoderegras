@@ -51,7 +51,10 @@
 	
 	
     {"key":"standup","tipo":"series","title":"Séries | Comedia","q":"Comedia dublado completo","min":1500},
-    {"key":"clipestop","tipo":"series","title":"Clipes | Top Hits Internacionais","q":"top english hits official music video","min":120,"max":720},
+	
+    {"key":"clipestop","tipo":"series","title":"Clipes | Top Hits Internacionais","q":"top english hits official music 
+	video","min":120,"max":720},
+	
     {"key":"clipespop","tipo":"series","title":"Clipes | Pop Internacional","q":"pop official music video english","min":120,"max":720},
     {"key":"clipesrock","tipo":"series","title":"Clipes | Rock Internacional","q":"rock official music video english","min":120,"max":720},
     {"key":"clipeshiphop","tipo":"series","title":"Clipes | Hip Hop e Rap","q":"hip hop rap official music video english","min":120,"max":720},
