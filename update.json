@@ -60,6 +60,9 @@
     {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro"},
     {"key":"dbd","tipo":"series","title":"GamePlay | DBD","q":"dead by daylight no commentary"},
     {"key":"terceiroolho","tipo":"series","title":"Videos | Terceiro olho","q":"Terceiro olho"},
-    {"key":"mantras","tipo":"series","title":"Videos | mantras","q":"mantras Terceiro olho"}
+    {"key":"mantras","tipo":"series","title":"Videos | mantras","q":"mantras Terceiro olho"},
+	{"key":"ued",tipo":"series","title":"Videos | Universo Em Desencanto","q":"Audio Leitura Universo Em Desencanto"},
+	{"key":"M.J.C",tipo":"series","title":"Videos | M.J.C","q":"Manuel Jacinto Coelho"},
+	{"key":"M.J.C",tipo":"series","title":"Videos | M.J.C","q":"Manuel Jacinto Coelho"}
   ]
 }
