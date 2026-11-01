@@ -56,12 +56,12 @@
     {"key":"clipes90","tipo":"series","title":"Clipes | Anos 90","q":"90s official music video hits","min":120,"max":720},
     {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720},
    
-   {"key":"nocturnal","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records","min":320,"max":720},
+   {"key":"nocturnal","tipo":"series","title":"Clipes | Nocturnal Records","q":"Nocturnal Records","min":1020,"max":720},
    
-      {"key":"K-pop","tipo":"series","title":"Clipes | K-pop Asian","q":"K-pop girl Clipes","min":320,"max":720},
+      {"key":"K-pop","tipo":"series","title":"Clipes | K-pop Asian","q":"K-pop girl Clipes","min":1020,"max":720},
 	  
-   {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro","min":320},
+   {"key":"kof","tipo":"series","title":"Clipes | KOF","q":"M. Bizarro","min":620},
    
-   {"key":"dbd","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary","min":600}
+   {"key":"dbd","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary","min":3020}
   ]
 }
