@@ -51,6 +51,7 @@
     {"key": "infantil", "tipo": "movies", "title": "Filmes | Infantil e Família", "q": "filme infantil família completo dublado", "min": 2400},
     {"key": "classicos", "tipo": "movies", "title": "Filmes | Clássicos", "q": "filme clássico antigo completo dublado", "min": 3000},
     {"key": "nacionais", "tipo": "movies", "title": "Filmes | Nacionais", "q": "filme nacional brasileiro completo", "min": 3000},
+	{"key": "24Filmes", "tipo": "movies", "title": "Filmes | 24 Horas", "q": "filmes 24 horas ao vivo", "ao_vivo": true},
 
     {"_": "=================== 3 - SERIES (clipes, videos e 24 horas no final) ==================="},
     {"key": "animes", "tipo": "series", "title": "Séries | Animes", "q": "anime completo dublado português", "min": 1200},
