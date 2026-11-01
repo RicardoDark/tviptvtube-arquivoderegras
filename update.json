@@ -56,6 +56,8 @@
     {"key":"clipes80","tipo":"series","title":"Clipes | Anos 80","q":"80s official music video hits","min":120,"max":720},
     {"key":"clipes90","tipo":"series","title":"Clipes | Anos 90","q":"90s official music video hits","min":120,"max":720},
     {"key":"clipes2000","tipo":"series","title":"Clipes | Anos 2000","q":"2000s official music video hits","min":120,"max":720}
+	{"key":"KOF","tipo":"series","title":"Clipes | M. Bizarro","q":"M. Bizarro","min":120,"max":720}
+    {"key":"DBD","tipo":"series","title":"Clipes | DBD","q":"dead by daylight no commentary","min":120,"max":720}
   ]
 }
 
