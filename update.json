@@ -89,8 +89,8 @@
     {"key": "K-pop", "tipo": "series", "title": "Clipes | K-pop Asian", "q": "kpop girl group official MV"},
     {"key": "emo", "tipo": "series", "title": "Clipes | Emo", "q": "clip music emo"},
     {"key": "gothic", "tipo": "series", "title": "Clipes | Gothic", "q": "clip music gothic"},
+	  {"key": "Melanie Martinez", "tipo": "series", "title": "Clipes | Melanie Martinez", "q": "clip music Melanie Martinez"},
 	{"key": "Guns", "tipo": "series", "title": "Clipes | Guns N' Roses", "q": "clip music Guns N' Roses"},
-
     {"key": "terceiroolho", "tipo": "series", "title": "Videos | Terceiro olho", "q": "Terceiro olho"},
     {"key": "mantras", "tipo": "series", "title": "Videos | mantras", "q": "mantras Terceiro olho"},
     {"key": "ued", "tipo": "series", "title": "Videos | Universo Em Desencanto", "q": "Audio Leitura Universo Em Desencanto"},
