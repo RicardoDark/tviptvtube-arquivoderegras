@@ -43,6 +43,7 @@
     {"key": "comedia", "tipo": "movies", "title": "Filmes | Comédia", "q": "filme de comédia completo dublado", "min": 3000},
     {"key": "terror", "tipo": "movies", "title": "Filmes | Terror", "q": "filme de terror completo dublado", "min": 3000},
     {"key": "drama", "tipo": "movies", "title": "Filmes | Drama", "q": "filme drama completo dublado", "min": 3000},
+	{"key": "asiático ", "tipo": "movies", "title": "Filmes | Asiático ", "q": "filmes asiático completo dublado", "min": 3000},
     {"key": "ficcao", "tipo": "movies", "title": "Filmes | Ficção Científica", "q": "filme ficção científica completo dublado", "min": 3000},
     {"key": "aventura", "tipo": "movies", "title": "Filmes | Aventura", "q": "filme de aventura completo dublado", "min": 3000},
     {"key": "suspense", "tipo": "movies", "title": "Filmes | Suspense", "q": "filme de suspense thriller completo dublado", "min": 3000},
