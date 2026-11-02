@@ -82,7 +82,7 @@
     {"key": "clipes90", "tipo": "series", "title": "Clipes | Anos 90", "q": "90s official music video hits"},
     {"key": "clipes2000", "tipo": "series", "title": "Clipes | Anos 2000", "q": "2000s official music video hits"},
     {"key": "nocturnal", "tipo": "series", "title": "Clipes | Nocturnal Records", "q": "Nocturnal Records"},
-	  {"key": "Repo!", "tipo": "series", "title": "Clipes | Nocturnal Records", "q": "Repo! The Genetic Opera"},
+	  {"key": "Repo!", "tipo": "series", "title": "Clipes | Repo! The Genetic Opera", "q": "Repo! The Genetic Opera"},
     {"key": "K-pop", "tipo": "series", "title": "Clipes | K-pop Asian", "q": "kpop girl group official MV"},
     {"key": "emo", "tipo": "series", "title": "Clipes | Emo", "q": "clip music emo"},
     {"key": "gothic", "tipo": "series", "title": "Clipes | Gothic", "q": "clip music gothic"},
