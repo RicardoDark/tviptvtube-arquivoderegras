@@ -3,14 +3,48 @@
 
   "servidores": [
     {"tipo": "piped", "url": "https://pipedapi.kavin.rocks"},
+    {"tipo": "piped", "url": "https://pipedapi-libre.kavin.rocks"},
     {"tipo": "piped", "url": "https://pipedapi.leptons.xyz"},
     {"tipo": "piped", "url": "https://pipedapi.nosebs.ru"},
+    {"tipo": "piped", "url": "https://api.piped.yt"},
+    {"tipo": "piped", "url": "https://api.piped.private.coffee"},
     {"tipo": "piped", "url": "https://pipedapi.adminforge.de"},
     {"tipo": "piped", "url": "https://pipedapi.drgns.space"},
     {"tipo": "piped", "url": "https://pipedapi.owo.si"},
     {"tipo": "piped", "url": "https://pipedapi.reallyaweso.me"},
+    {"tipo": "piped", "url": "https://pipedapi.ducks.party"},
+    {"tipo": "piped", "url": "https://piped-api.codespace.cz"},
+    {"tipo": "piped", "url": "https://pipedapi.darkness.services"},
+    {"tipo": "piped", "url": "https://pipedapi.orangenet.cc"},
+    {"tipo": "piped", "url": "https://piped-api.privacy.com.de"},
     {"tipo": "inv", "url": "https://inv.nadeko.net"},
-    {"tipo": "inv", "url": "https://yewtu.be"}
+    {"tipo": "inv", "url": "https://invidious.nerdvpn.de"},
+    {"tipo": "inv", "url": "https://yt.chocolatemoo53.com"},
+    {"tipo": "inv", "url": "https://invidious.tiekoetter.com"},
+    {"tipo": "inv", "url": "https://invidious.f5.si"},
+    {"tipo": "inv", "url": "https://inv.zoomerville.com"}
+  ],
+  "chave_api": "",
+  "sponsorblock": "https://sponsor.ajay.app",
+
+  "_____1_TV_____": "TV AO VIVO. Uma unica pasta: Canais 24 Horas. O app busca no YouTube os canais ao vivo (lista 'buscas'), nao precisa por canal na mao. Para acrescentar um canal fixo: coloque { \"nome\": \"...\", \"id\": \"11 letras do video ao vivo\" } em 'canais'.",
+  "tv": [
+    {
+      "key": "canais24h",
+      "title": "Canais 24 Horas",
+      "buscas": [
+        "canal 24 horas ao vivo ptbr",
+        "tv ao vivo 24 horas ptbr",
+        "notícias ao vivo 24 horas ptbr",
+        "música ao vivo 24 horas ptbr",
+        "desenhos ao vivo 24 horas ptbr",
+        "esportes ao vivo 24 horas ptbr",
+        "filmes e séries ao vivo 24 horas ptbr",
+        "lofi 24/7 ao vivo",
+        "live 24/7 channel"
+      ],
+      "canais": []
+    }
   ],
   "chave_api": "",
   "sponsorblock": "https://sponsor.ajay.app",
